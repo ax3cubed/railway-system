@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+       
+        <item>pune</item>
+	<item>mumbai</item>
+	<item>nashik</item>
+	<item>nagpur</item>
+	<item>wardha</item>
+	<item>bhusaval</item>
+	<item>daund</item>
+	<item>manmad</item>
+	<item>ahmedabad</item>
+	<item>vadodara</item>
+	<item>surat</item>
+	<item>howrah</item>
+	<item>pulgaon</item>
+	<item>banglore</item>
+	<item>chennai</item>
+	<item>raipur</item>
+	<item>calcutta</item>
+	<item>bhopal</item>
+	<item>hyderabad</item>
+	<item>panaji</item>
+	<item>thiruvananthapuram</item>
+	<item>gandhinagar</item>
+	<item>chandigarh</item>
+	<item>shimla</item>
+	<item>srinagar</item>
+	<item>lucknow</item>
+	<item>dehradun</item>
+	<item>jaipur</item>
+	<item>puducherry</item>
+	<item>bhubaneshwar</item>
+	<item>gangtok</item>
+	<item>agartala</item>
+	<item>kohima</item>
+	<item>shillong</item>
+	<item>aizawn</item>
+	<item>imphal</item>
+	<item>delhi</item>
+	<item>dispur</item>
+	<item>itanagar</item>
+	<item>thane</item>
+	<item>pimpri-chinchwad</item>
+	<item>aurangabad</item>
+	<item>kalyan</item>
+	<item>solapur</item>
+	<item>amravati</item>
+	<item>akola</item>
+	<item>nanded</item>
+	<item>kutcch</item>
+	<item>ahmednagar</item>
+	<item>patna</item>
+	        
+    </string-array>
+    <string name="app_name">Rail Ways</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="titles">
+        <item>Cancel</item>
+        <item>Help</item>
+    </string-array>
+  
+
+</resources>

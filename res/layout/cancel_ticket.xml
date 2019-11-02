@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/track"
+    android:visibility="visible"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/Cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="116dp"
+        android:text="Cancel Ticket" />
+
+    <EditText
+        android:id="@+id/pnr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:inputType="phone"
+        android:text="PNR" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>
